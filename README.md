@@ -1,2 +1,2 @@
-# davidplanascep.github.io https://davidplanascep.github.io/portfolio
+# https://davidplanascep.github.io/portfolio
 
